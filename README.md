@@ -56,4 +56,29 @@ Este projeto foi desenvolvido do zero, utilizando tecnologias modernas e prátic
 4. **Navegação Fluida:**
    - Navegue facilmente entre telas com a combinação de **Stack Navigator** e **Bottom Tab Navigator**.
 
+## Protótipos das Telas do Projeto
+
+Aqui estão os protótipos das telas do projeto **Ignite Gym**, mostrando a experiência completa do aplicativo.
+
+### Tela de Login
+![Tela de Login](./assets/Login.png "Tela de Login")
+
+### Tela de Cadastro (Sign Up)
+![Tela de Cadastro](./assets/Sign%20Up.png "Tela de Cadastro")
+
+### Tela Inicial (Home)
+![Tela Inicial](./assets/Home.png "Tela Inicial")
+
+### Tela de Exercícios (Exercise)
+![Tela de Exercícios](./assets/Exercise.png "Tela de Exercícios")
+
+### Tela de Histórico (History)
+![Tela de Histórico](./assets/History.png "Tela de Histórico")
+
+### Tela de Perfil (Profile)
+![Tela de Perfil](./assets/Profile.png "Tela de Perfil")
+
+
+
+
 
