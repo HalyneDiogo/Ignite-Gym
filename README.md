@@ -61,22 +61,22 @@ Este projeto foi desenvolvido do zero, utilizando tecnologias modernas e prátic
 Aqui estão os protótipos das telas do projeto **Ignite Gym**, mostrando a experiência completa do aplicativo.
 
 ### Tela de Login
-![Tela de Login](./assets/Login.png "Tela de Login")
+![Tela de Login](./ignite_Gym/assets/Login.png "Tela de Login")
 
 ### Tela de Cadastro (Sign Up)
-![Tela de Cadastro](./assets/Sign%20Up.png "Tela de Cadastro")
+![Tela de Cadastro](./ignite_Gym/assets/Sign%20Up.png "Tela de Cadastro")
 
 ### Tela Inicial (Home)
-![Tela Inicial](./assets/Home.png "Tela Inicial")
+![Tela Inicial](./ignite_Gym/assets/Home.png "Tela Inicial")
 
 ### Tela de Exercícios (Exercise)
-![Tela de Exercícios](./assets/Exercise.png "Tela de Exercícios")
+![Tela de Exercícios](./ignite_Gym/assets/Exercise.png "Tela de Exercícios")
 
 ### Tela de Histórico (History)
-![Tela de Histórico](./assets/History.png "Tela de Histórico")
+![Tela de Histórico](./ignite_Gym/assets/History.png "Tela de Histórico")
 
 ### Tela de Perfil (Profile)
-![Tela de Perfil](./assets/Profile.png "Tela de Perfil")
+![Tela de Perfil](./ignite_Gym/assets/Profile.png "Tela de Perfil")
 
 
 
